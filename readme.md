@@ -46,7 +46,7 @@ npm install
 npm start
 ```
 
-> The backend will run on `http://localhost:5000`
+> The backend will run on `https://todo-list-app-70me.onrender.com/api'`
 
 ---
 
@@ -92,7 +92,7 @@ npm start
 ## **Deployment**
 
 ### 🚀 Deploy Backend (Express.js)
-1. Use **Render**, **Railway**, or **Vercel** for hosting.
+1. Use **Render**, for hosting.
 2. Ensure `CORS` is enabled in `server.js`.
 3. Deploy using:
    ```sh
@@ -112,12 +112,4 @@ npm start
 ## **Contributing**
 Feel free to contribute! Fork the repo, make changes, and submit a pull request. 🚀
 
----
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
-💡 **Happy Coding!** 🎉
 
