@@ -11,9 +11,8 @@ import {
 import TodoItem from './TodoItem';
 import AddTodo from './AddTodo';
 
-// const API_BASE_URL = "http://localhost:5000/api"
+const API_BASE_URL = "http://localhost:5000/api"
 
-const API_BASE_URL = 'https://todo-list-app-70me.onrender.com/api';
 
 function TodoList() {
   const [todos, setTodos] = useState([]);
